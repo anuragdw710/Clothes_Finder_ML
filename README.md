@@ -1,2 +1,2 @@
-# Cllothes_Finder
+# Clothes_Finder
 Classification of clothes With Compter Vision
